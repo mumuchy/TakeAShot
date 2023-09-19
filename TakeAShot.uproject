@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C2CDD9DA-4CE5-35C5-6A16-12953D4D32C3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TakeAShot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
